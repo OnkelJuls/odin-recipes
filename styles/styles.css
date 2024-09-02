@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  list-style-position: inside;
+}
+ul a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+  padding: auto;
+  display: box;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: red;
+}
